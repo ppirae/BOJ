@@ -1,0 +1,7 @@
+a = int(input())
+b = int(input())
+b2 = str(b)
+print(a*int(b2[2]))
+print(a*int(b2[1]))
+print(a*int(b2[0]))
+print(a*b)
