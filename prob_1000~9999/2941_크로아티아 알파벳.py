@@ -1,0 +1,11 @@
+s = input()
+arr = []
+arr.append(s.count('c='))
+arr.append(s.count('c-'))
+arr.append(s.count('dz='))
+arr.append(s.count('d-'))
+arr.append(s.count('lj'))
+arr.append(s.count('nj'))
+arr.append(s.count('s='))
+arr.append(s.count('z='))
+print(len(s)-sum(arr))
