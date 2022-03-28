@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="70ac5ba7-0404-4d83-8128-0ddf2a079285" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/prob_1000~9999/4949_균형잡힌 세상.py" afterDir="false" />
-    </list>
+    <list default="true" id="70ac5ba7-0404-4d83-8128-0ddf2a079285" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -107,6 +105,7 @@
       <workItem from="1648350548718" duration="9000" />
       <workItem from="1648392423394" duration="441000" />
       <workItem from="1648395663061" duration="8000" />
+      <workItem from="1648450337718" duration="10000" />
     </task>
     <servers />
   </component>
