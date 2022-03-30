@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="70ac5ba7-0404-4d83-8128-0ddf2a079285" name="Changes" comment="" />
+    <list default="true" id="70ac5ba7-0404-4d83-8128-0ddf2a079285" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/prob_1000~9999/1918_후위 표기식.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,6 +27,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="26pTTlkl8twDuoMyF04XGutldlX" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -33,7 +39,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/PycharmProjects/파이썬 알고리즘 문제풀이" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -106,6 +112,8 @@
       <workItem from="1648392423394" duration="441000" />
       <workItem from="1648395663061" duration="8000" />
       <workItem from="1648450337718" duration="10000" />
+      <workItem from="1648531447092" duration="4000" />
+      <workItem from="1648621475806" duration="49000" />
     </task>
     <servers />
   </component>
