@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="70ac5ba7-0404-4d83-8128-0ddf2a079285" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/prob_1000~9999/1697_숨바꼭질.py" afterDir="false" />
+    <list default="true" id="70ac5ba7-0404-4d83-8128-0ddf2a079285" name="Changes" comment="BOJ">
+      <change afterPath="$PROJECT_DIR$/prob_1000~9999/1926_그림.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prob_1000~9999/7576_토마토.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,7 +40,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -140,7 +141,19 @@
       <workItem from="1648743589417" duration="15000" />
       <workItem from="1649227418155" duration="123000" />
       <workItem from="1649337657516" duration="42000" />
+      <workItem from="1649352756032" duration="27000" />
+      <workItem from="1649413572012" duration="19000" />
+      <workItem from="1649413599705" duration="4000" />
+      <workItem from="1649433998847" duration="25000" />
     </task>
+    <task id="LOCAL-00001" summary="BOJ">
+      <created>1649352768850</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1649352768850</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -156,6 +169,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="BOJ" />
+    <option name="LAST_COMMIT_MESSAGE" value="BOJ" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/BOJ$1654__.coverage" NAME="1654_랜선 자르기 Coverage Results" MODIFIED="1648120118375" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prob_1000~9999" />
